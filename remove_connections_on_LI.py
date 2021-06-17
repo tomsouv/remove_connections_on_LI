@@ -5,7 +5,7 @@
 import keyboard
 import time
 
-x = 25 # Change this value to however many connections you want to remove at a time.
+x = 1 # Change this value to however many connections you want to remove at a time.
 y = 0
 
 keyboard.wait('q') # This is your hotkey you press to initiate the automation.
