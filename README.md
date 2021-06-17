@@ -10,5 +10,6 @@ INSTRUCTIONS:
 4. Press TAB 4 times to highlight/circle the first portrait on top of that connections list.
 5. Open the code and adjust `x` on `line 8` to whichever numeric value you need. I left it at one for testing purposes.
 6. Execute the `remove_connections_on_LI.py` from your command line.
+7. Press the `q` key on your keyboard to start the script. You may adjust this key in the code on `line 11`.
 
 Please note the sequencing will be off if you do not start off with highlighting the very first connection's portrait by left clicking the light grey background, then pressing the TAB button 4 times.
